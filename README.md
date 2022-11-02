@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kennethtml
 - 👀 I’m interested in ...Web development
-- 🌱 I’m currently learning ...javascript
+- 🌱 I’m currently learning ...javascript,react,node
 - 💞️ I’m looking to collaborate on ...javascript projects
 - 📫 How to reach me ...@akhere_e on twitter
 
